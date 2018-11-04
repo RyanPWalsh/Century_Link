@@ -29,8 +29,15 @@ namespace GHF.Controllers
             string url = $"https://api.github.com/users/{gitHubId}/followers";
             var client = new HttpClient();           
             client.DefaultRequestHeaders.Add("user-agent", "user_agent_is_required_by_gitHub");
-            var content = client.GetStringAsync(url).Result;
-            return JsonConvert.DeserializeObject<List<Follower>>(content).Take(5).ToList();
+            try
+            {
+                var content = client.GetStringAsync(url).Result;
+                return JsonConvert.DeserializeObject<List<Follower>>(content).Take(5).ToList();
+            }
+            catch
+            {
+                return new List<Follower>();
+            }
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.csproj.CoreCompileInputs.cache
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.RazorAssemblyInfo.cache
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.RazorAssemblyInfo.cs
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.AssemblyInfoInputs.cache
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.AssemblyInfo.cs
+D:\Azure\GHFollowers2\GHFollowers2\bin\Debug\netcoreapp2.1\GHFollowers2.deps.json
+D:\Azure\GHFollowers2\GHFollowers2\bin\Debug\netcoreapp2.1\GHFollowers2.runtimeconfig.json
+D:\Azure\GHFollowers2\GHFollowers2\bin\Debug\netcoreapp2.1\GHFollowers2.runtimeconfig.dev.json
+D:\Azure\GHFollowers2\GHFollowers2\bin\Debug\netcoreapp2.1\GHFollowers2.dll
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.RazorTargetAssemblyInfo.cache
+D:\Azure\GHFollowers2\GHFollowers2\bin\Debug\netcoreapp2.1\GHFollowers2.pdb
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.csprojAssemblyReference.cache
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.dll
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\GHFollowers2.pdb
+D:\Azure\GHFollowers2\GHFollowers2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
